@@ -1,0 +1,21 @@
+You can also create a DataFrame from different sources like Text, CSV, JSON, XML, Parquet, Avro, ORC, Binary files, RDBMS Tables, Hive, HBase, and many more.
+
+DataFrame is a distributed collection of data organized into named columns. 
+It is conceptually equivalent to a table in a relational database or a data frame in R/Python, 
+but with richer optimizations under the hood. 
+DataFrames can be constructed from a wide array of sources such as: structured data files, 
+tables in Hive, external databases, or existing RDDs.
+
+Spark Create DataFrame from RDD
+    * Using toDF() function
+    * Using Spark createDataFrame() from SparkSession
+    * Using createDataFrame() with the Row type
+Create DataFrame from List and Seq collection
+Creating Spark DataFrame from CSV file
+Creating from TXT file
+Creating from JSON file
+Creating from an XML file
+Creating from HIVE
+Creating from RDBMS Database table
+Creating from HBase table
+Other sources (Avro, Parquet e.t.c)

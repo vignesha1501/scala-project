@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/vigneshshetty/Desktop/IBM/courses/Scala EPFL/scala-project/target/scala-2.12/scala-project_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vigneshshetty/Desktop/IBM/courses/Scala EPFL/scala-project/target/scala-2.12/classes/app$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vigneshshetty/Desktop/IBM/courses/Scala EPFL/scala-project/target/scala-2.12/classes/app$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vigneshshetty/Desktop/IBM/courses/Scala EPFL/scala-project/target/scala-2.12/classes/app.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
