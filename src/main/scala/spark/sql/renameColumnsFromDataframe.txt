@@ -1,0 +1,7 @@
+Columns can be renamed using withColumnRenamed function,
+also we can't pass column objects, 
+we should only pass string names
+
+Note :
+        1. If you pass wrong column name, it ignores and does nothing
+        2. Also, we can't modify same dataframe, so you need to assign it to a new dataframe

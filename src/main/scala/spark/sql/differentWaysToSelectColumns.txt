@@ -1,0 +1,4 @@
+* Different Ways to Select Columns 
+    1. by passing string arguments 
+    2. by passing column object/reference
+    3. by running sql queries on dataframe 
