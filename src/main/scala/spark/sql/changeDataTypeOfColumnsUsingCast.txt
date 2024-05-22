@@ -1,0 +1,4 @@
+
+Using cast, we can change the data type of existing column in a dataframe
+Changed column's data type from Int to Long, also argument can be only strings 
+Using SelectExpr Changed column's data type from Int to Long, also argument can be only strings 

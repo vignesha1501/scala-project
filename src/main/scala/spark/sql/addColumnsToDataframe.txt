@@ -1,0 +1,8 @@
+When you create a data frame from a file and specify the schema, it has exactly the same number of
+columns that are specified in the schema and the data available in the file.
+But afterward, you can still add new columns to a data frame.
+
+Using withColumn function
+    * using lit()
+    * using concat()
+    * using expr() 
